@@ -1,21 +1,21 @@
 # site settings
 title: Galen Savidge
-subtitle: Roboticcs Engineering Student and Pianist
+subtitle: Robotics Engineering Student and Jazz Pianist
 email: galensavidge@gmail.com
-description: 
+description: This is currently under constructin but eventually will be a personal website.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-# street_address: 1234 Somewhere Road
-# city: Nashville
-# state: TN
-# zip_code: 55555
-# country: United States of America
-# phone: (716) 555-5555
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # social settings
 500px_url:
