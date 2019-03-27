@@ -4,4 +4,5 @@ This file contains locations of files that control the formatting of the site. T
 
 ## Styling
 
-* **Colors:** \_sass\libs\_vars.scss
+* **Font, colors, & transition speed:** /_sass/libs/_vars.scss
+* **Tile size and format:** /_sass/components/_tiles.scss

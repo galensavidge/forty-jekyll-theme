@@ -2,20 +2,20 @@
 title: Galen Savidge
 subtitle: Robotics Engineering Student and Jazz Pianist
 email: galensavidge@gmail.com
-description: This is currently under constructin but eventually will be a personal website.
+description: Currently under construction.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
-city:
-state:
-zip_code:
-country:
+city: Santa Cruz
+state: CA
+zip_code: 94708
+country: United States
 phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 8
+tiles-count: 4s
 
 # social settings
 500px_url:

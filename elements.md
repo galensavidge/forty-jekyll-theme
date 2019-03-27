@@ -1,8 +1,4 @@
----
-layout: page
-title: Elements
-nav-menu: true
----
+
 
 <!-- Main -->
 <div id="main" class="alt">
