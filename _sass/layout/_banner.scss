@@ -8,7 +8,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/banner.jpg")');
+		@include vendor('background-image', 'url("../images/banner.png")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -26,7 +26,7 @@
 
 		&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
-			@include vendor('transition-delay', '0.75s');
+			@include vendor('transition-delay', '0.5s');
 			@include vendor('pointer-events', 'none');
 			background-color: _palette(bg);
 			content: '';
@@ -86,7 +86,7 @@
 				}
 
 				p {
-					font-size: 0.7em;
+					font-size: 1em;
 					font-weight: _font(weight-bold);
 					letter-spacing: _font(letter-spacing-alt);
 					text-transform: uppercase;

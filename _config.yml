@@ -1,17 +1,17 @@
 # site settings
 title: Galen Savidge
-subtitle: Robotics Engineering Student and Jazz Pianist
+subtitle: Site under construction
 email: galensavidge@gmail.com
-description: Currently under construction.
+description: Robotics Engineering Student and Jazz Pianist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address:
-city: Santa Cruz
+street_address: 769 Creston Road
+city: Berkeley
 state: CA
 zip_code: 94708
 country: United States
-phone: 
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
