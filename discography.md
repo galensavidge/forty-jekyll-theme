@@ -1,7 +1,7 @@
 ---
 title: Discography
 layout: landing
-description: 'Galen Savidge has released two albums playing piano for the UCSC-based jazz trio Triumvirate.'
+description: 'Galen Savidge has released two albums playing piano for the Santa Cruz-based jazz trio Triumvirate.'
 image:
 nav-menu: true
 ---
@@ -11,6 +11,20 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>At Second Glance</h2>
+		</header>
+		<p>Triumvirate's most recent album, featuring Keshav Batish on drums, Gabe Mecham on bass, Evan O'Brien on saxophone, Henry Wilson on vibraphone, and Nelsen Hutchison on guitar.</p>
+		<ul class="actions">
+			<li><a href="generic.html" class="button next">Get Started</a></li>
+		</ul>
+	</div>
+</section>
+
+
+<!-- Two -->
+<section id="two">
 	<div class="inner">
 		<div class="row">
 			<div class="8u 12u$(medium)">
@@ -25,18 +39,4 @@ nav-menu: true
 	</div>
 	</div>
 </section>
-
-<!-- Two -->
-<section id="two">
-	<div class="inner">
-		<header class="major">
-			<h2>At Second Glance</h2>
-		</header>
-		<p>Triumvirate's most recent album, featuring Keshav Batish on drums, Gabe Mecham on bass, Evan O'Brien on saxophone, Henry Wilson on vibraphone, and Nelsen Hutchison on guitar.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
-
 </div>
