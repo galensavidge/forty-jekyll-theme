@@ -12,8 +12,54 @@
   </article>
   {% endif %}
   {% endfor %}
-  {% for page in site.pages limit:site.tiles-count %}
-  {% if site.tiles-source == 'pages' and page.show_tile != false %}
+  
+  <!-- About me tile -->
+  <article>
+    <span class="image">
+      <img src="" alt="" />
+    </span>
+    <header class="major">
+      <h3><a href="" class="link">About me</a></h3>
+      <p>Description from tiles.html</p>
+    </header>
+  </article>
+  
+  <!-- Projects tile -->
+  <article>
+    <span class="image">
+      <img src="" alt="" />
+    </span>
+    <header class="major">
+      <h3><a href="/projects.html" class="link">Projects</a></h3>
+      <p>Description from tiles.html</p>
+    </header>
+  </article>
+  
+  <!-- Resume tile -->
+  <article>
+    <span class="image">
+      <img src="/assets/images/resume_thumb.png" alt="" />
+    </span>
+    <header class="major">
+      <h3><a href="/assets/Galen_Savidge_Resume_3_26_2019.pdf" class="link">Resume</a></h3>
+      <p>Description from tiles.html</p>
+    </header>
+  </article>
+  
+  <!-- Music tile -->
+  <article>
+    <span class="image">
+      <img src="" alt="" />
+    </span>
+    <header class="major">
+      <h3><a href="" class="link">Music</a></h3>
+      <p>Description from tiles.html</p>
+    </header>
+  </article>
+  
+  <!-- About me tile 
+  {% for page in site.pages limit:site.tiles-count reversed %} 
+  {% if site.tiles-source == 'pages' and page.show_tile != false and page.title == 'Generic' %}
   <article>
     <span class="image">
       <img src="{{ page.image }}" alt="" />
@@ -24,5 +70,5 @@
     </header>
   </article>
   {% endif %}
-  {% endfor %}
+  {% endfor %} -->
 </section>

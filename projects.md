@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Projects</h1>
+			<h1>{{ page.title }}</h1>
 		</header>
 
 <!-- Content -->
