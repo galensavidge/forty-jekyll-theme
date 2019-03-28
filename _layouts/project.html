@@ -12,10 +12,10 @@
 
         {% include header.html %}
 
-        <section id="banner" class="style1">
+        <section id="banner" class="style4">
             <div class="inner">
                 <span class="image">
-                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                    <img src="{{ site.baseurl }}/{{ page.image }}" data-position="center center" alt="">
                 </span>
                 <header class="major">
 
@@ -29,11 +29,16 @@
                 </div>
             </div>
         </section>
-
+	
+	<!-- Main -->
+	<div id="main" class="alt">
+	
     {{ content }}
-
+	
+	</div>
+	
     {% include footer.html %}
-
+	
 </body>
 
 </html>
