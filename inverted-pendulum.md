@@ -10,13 +10,13 @@ github-url: 'https://github.com/galensavidge/inverted-pendulum-bot'
 <section id="one">
 	<div class="inner">
 		<div class="row">
-			<div class="6u 12u$(medium)">
+			<div class="9u 12u$(medium)">
 				<header class="major">
 					<h3>About	</h3>
 				</header>
-				<p>The inverted pendulum is a classic feedback control problem.</p>
+				<p>The inverted pendulum is a classic feedback control problem. The coupled physical system exhibits complex behavior which can make it difficult to control. This project aims to tackle the problem from the ground up, using a derived kinematic model to simulate the effects of different feedback control techniques on the system. Eventually, feedback control will be tested on a custom-built physical bot.</p>
 			</div>
-			<div class="6u$ 12u$(medium)" align="right">
+			<div class="3u$ 12u$(medium)" align="right">
 				<header class="major">
 					<h3>Source Code	</h3>
 				</header>

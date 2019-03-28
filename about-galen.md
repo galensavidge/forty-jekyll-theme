@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Galen
+title: About
 description:
 image:
 nav-menu: true
