@@ -1,6 +1,6 @@
 # site settings
 title: Galen Savidge
-subtitle: Site under construction
+subtitle:
 email: galensavidge@gmail.com
 description: Robotics Engineering Student and Jazz Pianist
 baseurl: "" # the subpath of your site, e.g. /blog

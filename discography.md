@@ -14,8 +14,8 @@ nav-menu: true
 				<header class="major">
 					<h2>At Second Glance</h2>
 				</header>
-				<p>Triumvirate's most recent album, featuring Keshav Batish on drums, Gabe Mecham on bass, Evan O'Brien on saxophone, Henry Wilson on vibraphone, and Nelsen Hutchison on guitar.</p>
-				<ul>
+				<p>Triumvirate's most recent album, featuring <a href="http://www.keshavbatish.com/home-2/" target="_blank">Keshav Batish</a> on drums, Gabe Mecham on bass, Evan O'Brien on saxophone, Henry Wilson on vibraphone, and Nelsen Hutchison on guitar.</p>
+				<ul class="links">
 					<li><a href="https://open.spotify.com/album/74O1X7inMbeozMgYxjpCy6">Spotify</a></li>
 					<li><a href="https://itunes.apple.com/us/album/at-second-glance/1398587237">Apple Music</a></li>
 					<li><a href="https://play.google.com/store/music/album/Triumvirate_At_Second_Glance?id=Btrwfpzmd4qsbdcmp4uiiexoe2u">Google Music</a></li>
