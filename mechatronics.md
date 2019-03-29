@@ -39,7 +39,7 @@ nav-menu: false
 			</div>
 			<div class="5u$ 12u$(medium)">
 				<div align="right">
-					<iframe src="https://drive.google.com/file/d/1Tj-PVqJTNC0hqsFZBgiU8-32OnltNKka/preview" width="640" height="360"></iframe>
+					<iframe src="https://drive.google.com/file/d/1Tj-PVqJTNC0hqsFZBgiU8-32OnltNKka/preview" width="640" height="360" allowfullscreen></iframe>
 				</div>
 			</div>
 		</div>
