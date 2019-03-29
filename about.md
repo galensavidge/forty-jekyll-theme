@@ -6,7 +6,7 @@ image:
 nav-menu: true
 ---
 
-<p>I am an engineering student and pianist based in the Bay Area in California. I am available to play piano at events in and around the San Francisco Bay Area. I am also currently looking for an engineering position relating to robotics and/or aerospace beginning after I graduate from UC Santa Cruz in June.</p>
+<p>I am an engineering student and pianist based in the San Francisco Bay Area in California. I am available to play piano at events in and around the San Francisco Bay Area. I am also currently looking for an engineering position relating to robotics and/or aerospace beginning after I graduate from UC Santa Cruz in June.</p>
 
 <section id="interests">
 	<div class="row">
