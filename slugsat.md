@@ -10,7 +10,7 @@ nav-menu: false
 		<header class="major">
 			<h2>About</h2>
 		</header>
-		<p><a href="https://slugsat.soe.ucsc.edu/home-page">SlugSat</a> is a student-run <a href="http://www.cubesat.org/">CubeSat</a> electrical and computer engineering senior design project at the Jack Baskin School of Engineering at UC Santa Cruz. The project aims to put a microsatellite in low Earth orbit on a very low budget (~$12,000). As leader of SlugSat's Mechanical team, I am working on an attitude control system to sense and adjust our satellite's orientation in space.</p>
+		<p><a href="https://slugsat.soe.ucsc.edu/home-page" target="_blank">SlugSat</a> is a student-run <a href="http://www.cubesat.org/" target="_blank">CubeSat</a> electrical and computer engineering senior design project at the Jack Baskin School of Engineering at UC Santa Cruz. The project aims to put a microsatellite in low Earth orbit on a very low budget (~$12,000). As leader of SlugSat's Mechanical team, I am working on an attitude control system to sense and adjust our satellite's orientation in space.</p>
 	</div>
 </section>
 

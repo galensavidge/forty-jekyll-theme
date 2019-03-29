@@ -20,7 +20,7 @@ github-url: 'https://github.com/galensavidge/inverted-pendulum-bot'
 				<header class="major">
 					<h2>Source Code</h2>
 				</header>
-				<a href="{{ page.github-url }}">GitHub</a>
+				<a href="{{ page.github-url }}" target="_blank">GitHub</a>
 			</div>
 		</div>
 	</div>
