@@ -4,8 +4,10 @@ subtitle:
 email: galensavidge@gmail.com
 description: Robotics Engineering Student and Jazz Pianist
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+url: 'https://www.galensavidge.com/' # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+author: Galen Savidge
 street_address:
 city: Berkeley
 state: CA
