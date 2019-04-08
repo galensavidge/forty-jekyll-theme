@@ -18,11 +18,9 @@
             <header class="major">
                 <h1>{{ page.landing-title }}</h1>
             </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
-                <ul class="actions">
-                    <li><a href="{% link about.md %}" class="button next scrolly">About</a></li>
-                </ul>
+            <div class="content" style="justify-content: space-between;">
+                <p style="text-transform: uppercase;">{{ site.description }}</p>
+				<a href="{% link about.md %}" class="button next">About</a>
             </div>
         </div>
     </section>

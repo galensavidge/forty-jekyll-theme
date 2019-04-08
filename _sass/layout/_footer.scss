@@ -28,6 +28,10 @@
 				}
 			}
 		}
+		
+		.contact-info {
+			font-size: 0.8em;
+		}
 
 		@include breakpoint(xsmall) {
 			.copyright {

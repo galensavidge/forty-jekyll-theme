@@ -107,7 +107,47 @@
 				padding-right: 5em;
 			}
 		}
+	
+		&.down {
+			padding-right: 4.5em;
+			position: relative;
 
+			&:before, &:after {
+				@include vendor('transition', 'opacity #{_duration(transition)} ease-in-out');
+				background-position: center right;
+				background-repeat: no-repeat;
+				background-size: 36px 24px;
+				content: '';
+				display: block;
+				height: 100%;
+				position: absolute;
+				right: 1.5em;
+				top: 0;
+				vertical-align: middle;
+				width: 36px;
+			}
+
+			&:before {
+				background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="24px" viewBox="0 0 36 24" zoomAndPan="disable"><style>line { stroke: #{_palette(fg-bold)}; stroke-width: 2px; }</style><line x1="12" y1="0" x2="12" y2="22" /><line x1="21" y1="13" x2="12.5" y2="22" /><line x1="4" y1="13" x2="12.5" y2="22" /></svg>');
+			}
+
+			&:after {
+				background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="24px" viewBox="0 0 36 24" zoomAndPan="disable"><style>line { stroke: #{_palette(highlight)}; stroke-width: 2px; }</style><line x1="12" y1="0" x2="12" y2="22" /><line x1="21" y1="13" x2="12.5" y2="22" /><line x1="4" y1="13" x2="12.5" y2="22" /></svg>');
+				opacity: 0;
+				z-index: 1;
+			}
+
+			&:hover, &:active {
+				&:after {
+					opacity: 1;
+				}
+			}
+
+			@include breakpoint(large) {
+				padding-right: 5em;
+			}
+		}
+		
 		&.special {
 			background-color: _palette(fg-bold);
 			box-shadow: none;
