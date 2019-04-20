@@ -2,7 +2,7 @@
 layout: project
 title: Inverted Pendulum Bot
 description: 'A configurable, autonomous Segway-like robot. Currently in progress.'
-image:
+image: assets/images/pendulum-bot-banner.jpg
 nav-menu: false
 github-url: 'https://github.com/galensavidge/inverted-pendulum-bot'
 ---
@@ -37,6 +37,22 @@ github-url: 'https://github.com/galensavidge/inverted-pendulum-bot'
 			</div>
 			<div class="4u$ 12u$(medium)">
 				<span class="image fit"><img src="assets/images/inverted-pendulum-side.gif" alt="assets/images/inverted-pendulum-thumb.PNG" /></span>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="robot">
+	<div class="inner">
+		<header class="major">
+			<h2>Robot</h2>
+		</header>
+		<div class="row">
+			<div class="8u 12u$(medium)">
+				<p>The robot itself uses an Arduino Nano and other off-the-shelf parts. An on-board IMU package provides a way to measure orientation while high-speed continuous rotation servos allow for easy control of the robot's wheel speeds. The parts for the chassis are laser cut acrylic.</p>
+			</div>
+			<div class="4u$ 12u$(medium)">
+				<span class="image fit"><img src="assets/images/pendulum-bot.jpg" alt="" /></span>
 			</div>
 		</div>
 	</div>

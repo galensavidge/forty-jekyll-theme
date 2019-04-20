@@ -20,13 +20,14 @@ nav-menu: false
 		<header class="major">
 			<h2>Attitude Control System</h2>
 		</header>
+		<p>The Attitude Control System (ACS) uses course sun sensors and an Inertial Measurement Unit (IMU) to determine the satellite's orientation in space. Reaction wheels and magnetic torque rods provide the means to alter the craft's attitude. ACS Matlab simulations show that a feedback controller can move the satellite into a desired orientation (shown below).</p>
+		
 		<div class="row">
-			<p>The Attitude Control System (ACS) uses course sun sensors and an Inertial Measurement Unit (IMU) to determine the satellite's orientation in space. Reaction wheels and magnetic torque rods provide the means to alter the craft's attitude. ACS Matlab simulations show that a feedback controller can move the satellite into a desired orientation (shown below).</p>
 			<div class="6u 12u$(medium)">
-				<iframe src='https://gfycat.com/ifr/LividIncomparableFennecfox' frameborder='0' scrolling='no' allowfullscreen width='640' height='635'></iframe>
+				<span class="image fit"><img style="max-width: 560px" src="assets/images/cube.gif" alt="" /></span>
 			</div>
 			<div class="6u$ 12u$(medium)">
-				<iframe src='https://gfycat.com/ifr/DearMetallicGander' frameborder='0' scrolling='no' allowfullscreen width='640' height='792'></iframe>
+				<span class="image fit"><img style="max-width: 560px" src="assets/images/quiver.gif" alt="" /></span>
 			</div>
 		</div>
 	</div>

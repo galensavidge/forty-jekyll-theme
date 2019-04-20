@@ -38,8 +38,8 @@ nav-menu: false
 				</ol>
 			</div>
 			<div class="5u$ 12u$(medium)">
-				<div align="right">
-					<iframe src="https://drive.google.com/file/d/1Tj-PVqJTNC0hqsFZBgiU8-32OnltNKka/preview" width="640" height="360" allowfullscreen></iframe>
+				<div align="right" style="position:relative; width:100%; height:0px; padding-bottom:56.25%">
+					<iframe src="https://drive.google.com/file/d/1Tj-PVqJTNC0hqsFZBgiU8-32OnltNKka/preview" allowfullscreen style="position:absolute; left:0; top:0; width:100%; height:100%"></iframe>
 				</div>
 			</div>
 		</div>
