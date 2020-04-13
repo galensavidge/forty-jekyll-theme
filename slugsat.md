@@ -86,7 +86,7 @@ nav-menu: false
 		</header>
 		<p>The culmination of an academic year of work on the project, SlugSat's flat-sat is an integrated system comprised of components from the power, linear transponder, on-board computer, and of course attitude control subsystems. </p>
 		<div class="image fit">
-			<img src="assets/images/flatsat.jpg" alt="" />
+			<img src="assets/images/flatsat.JPG" alt="" />
 		</div>
 		
 		<div class="row">
