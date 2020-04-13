@@ -35,7 +35,7 @@ nav-menu: false
 <section id="two">
 	<div class="inner">	
 		<header class="major">
-			<h2>Matlab Simualtions</h2>
+			<h2>Matlab Simulations</h2>
 		</header>
 		<p>We created a simple dynamic simulation in Matlab to test feedback control algorithms for the ACS. The simulation models the rotational dynamics of the satellite and its actuators, including configurable disturbance torques. The physical properties of the satellite are based on estimations of the mass distribution of SlugSat's components and an initial prototype of the HF (15 meter band) antenna supporting the linear transponder. Shown below, the Matlab simulation demonstrates that the feedback controller used in the ACS can rotate to and maintain a desired attitude.</p>
 		<div class="row">
