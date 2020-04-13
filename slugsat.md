@@ -22,7 +22,7 @@ nav-menu: false
 		</header>
 		<div class="row">
 			<div class="7u 12u$(medium)">
-				<p>SlugSat's Attitude Control System (ACS) is reseponsible for maintaining the nadir pointing attitude required by the satellite's payloads. To do this, the system uses a combination of sensors, actuators, and feedback control logic, together allowing for closed-loop control of the satellite's orientation. SlugSat uses course sun sensors and an Inertial Measurement Unit (IMU) to determine its orientation in space, while reaction wheels and magnetic torque rods provide the means to alter its attitude. State-machine-controlled sensor fusion and feedback control logic runs continuously on the SlugSat's on-board computer, constantly updating output to the actuators based on the state and orientation of the satellite.</p>
+				<p>SlugSat's Attitude Control System (ACS) is responsible for maintaining the nadir pointing attitude required by the satellite's payloads. To do this, the system uses a combination of sensors, actuators, and feedback control logic, together allowing for closed-loop control of the satellite's orientation. SlugSat uses course sun sensors and an Inertial Measurement Unit (IMU) to determine its orientation in space, while reaction wheels and magnetic torque rods provide the means to alter its attitude. State-machine-controlled sensor fusion and feedback control logic runs continuously on the SlugSat's on-board computer, constantly updating output to the actuators based on the state and orientation of the satellite.</p>
 			</div>
 			<div class="5u$ 12u$(medium)">
 				<span class="image fit"><img src="assets/images/acs-blockdiagram.png" alt="" /></span>
