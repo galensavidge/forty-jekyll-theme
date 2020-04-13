@@ -63,7 +63,7 @@ nav-menu: false
 				<p>SlugSat's initial sensor prototype, shown to the left, houses an IMU and STM32 Nucleo development board inside a box scaled to replicate SlugSat's exterior. The box has solar panels mounted on each side which, when exposed to a single directional light source, allow the "satellite" to find a course sun vector. The on-board microcontroller reads data from the IMU and solar panels, runs an attitude estimation algorithm (similar to an extended Kalman filter), and sends orientation data to a PC for analysis. The complete test assembly also includes a dark box to remove interference from external light and a Helmholtz coil to allow precise control over the magnetic field inside of the test fixture.</p>
 			</div>
 			<div class="5u$ 12u$(medium)">
-				<span class="image fit"><img style="max-width: 560px" src="assets/images/slugsat-gimbal.jpg" alt="" /></span>
+				<span class="image fit"><img src="assets/images/slugsat-gimbal.jpg" alt="" /></span>
 			</div>
 		</div>
 		
@@ -72,7 +72,7 @@ nav-menu: false
 				<p>In addition to sensor prototypes, we built and tested one copy of each type of actuator used by the ACS: one magnetic torque rod, and one reaction wheel. The torque rod was constructed by winding wire around a core made of a nickel-iron-molybdenum alloy with very high permeability. These actuators generate torque by utilizing the geomagnetic field surrounding Earth, and are very important because they can change the net angular momentum of the satellite. The reaction wheel prototype, shown here, was made by mating a metal flywheel onto a brushless DC motor. Reaction wheels generate more torque than torque rods, are more power efficient, and are not constrained by the direction of the geomagnetic field, but work by utlizing the conservation of momentum, meaning that they cannot change the net momentum of the satellite.</p>
 			</div>
 			<div class="5u$ 12u$(medium)">
-				<span class="image fit"><img style="max-width: 560px" src="assets/images/reaction-wheel.jpg" alt="" /></span>
+				<span class="image fit"><img src="assets/images/reaction-wheel.jpg" alt="" /></span>
 			</div>
 		</div>
 	</div>
