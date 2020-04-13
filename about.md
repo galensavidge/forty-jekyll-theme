@@ -6,7 +6,7 @@ image:
 nav-menu: true
 ---
 
-<p>I am an engineering student and jazz pianist based in the San Francisco Bay Area of California. I play piano for events and businesses, both as a solo performer and in groups. I am also persuing a career in engineering, building off of my background in robotics. My interests lie specifically in aerospace applications of robotic and mechatronic systems.</p>
+<p>I am an engineering student and jazz pianist based in the San Francisco Bay Area of California. I play piano for events and businesses, both as a solo performer and in groups. I am also persuing a career in engineering, building off of my background in robotics. My interests, though spanning a broad range of topics, are focused around aerospace applications of robotic and mechatronic systems.</p>
 
 <section id="interests">
 	<div class="row">

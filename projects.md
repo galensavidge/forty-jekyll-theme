@@ -20,7 +20,7 @@ nav-menu: true
 				<header class="major">
 					<h3>SlugSat</h3>
 				</header>
-				<p>Microsatellite senior design project. Currently in progress.</p>
+				<p>Microsatellite senior design project.</p>
 				<ul class="actions">
 					<li><a href="slugsat.html" class="button">Read more</a></li>
 				</ul>
