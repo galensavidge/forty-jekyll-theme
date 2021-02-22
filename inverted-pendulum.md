@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Inverted Pendulum Bot
-description: 'A configurable, autonomous Segway-like robot. Currently in progress.'
+description: 'A configurable, autonomous Segway-like robot.'
 image: assets/images/pendulum-bot-banner.jpg
 nav-menu: false
 github-url: 'https://github.com/galensavidge/inverted-pendulum-bot'

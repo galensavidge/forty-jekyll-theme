@@ -36,7 +36,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Inverted Pendulum Bot</h3>
 				</header>
-				<p>A configurable, autonomous Segway-like robot. Currently in progress.</p>
+				<p>A configurable, autonomous Segway-like robot.</p>
 				<ul class="actions">
 					<li><a href="inverted-pendulum.html" class="button">Read more</a></li>
 				</ul>
